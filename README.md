@@ -1,8 +1,9 @@
-## Olá
+## Hey there!
 
--🌱 Learning JavaScript <br>
+-🌱 Learning PixelArt <br>
 -😄 She/her <br>
--🌎 Speaking Portuguese and English 
+-🌎 Speaking Portuguese and English <br>
+-💻Also a writer
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anne-the-historian-ish&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
