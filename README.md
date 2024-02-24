@@ -1,9 +1,8 @@
-## Hey there!
+## Welcome!
 
--🌱 Learning PixelArt <br>
--😄 She/her <br>
+-🌱 Learning korean and front end development <br>
 -🌎 Speaking Portuguese and English <br>
--💻Also a writer
+-💻 Also Unpublished writer  
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anne-the-historian-ish&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
